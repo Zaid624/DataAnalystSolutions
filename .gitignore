@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+*.pyc
+
+# VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# Operating System
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Project specific
+*.png
+*.csv
+.ipynb_checkpoints/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+coverage.xml
+*.cover
